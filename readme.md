@@ -34,7 +34,7 @@ If you have not clone this repo into you resources folder for minecraft, I advis
 1. Launch the game
 2. Enter a local/singleplayer testing world.
 3. From the in-game menu, select resource packs and move the SoMC resource pack from the available ones into the active list and put it at the top.
-4. Give yourself the item in game `\give @s minecraft:stick{CustomModelData:1}' where the **1** is the value of the custom model data set in the previous section.
+4. Give yourself the item in game `\give @s minecraft:stick{CustomModelData:1}` where the **1** is the value of the custom model data set in the previous section.
 
 If everything worked you should now have your item.
 
