@@ -9,4 +9,6 @@
 | Royal Staff V2      | Stick                 | 2
 | Royal Staff V3      | Diamond Pickaxe       | 1
 | Frying Pan w/ Bacon | Stick, Carved Pumpkin | 3, 3
-| Trophy (Gold).      | Carved Pumpkin        | 4
+| Trophy (Gold)       | Carved Pumpkin        | 4
+| Voting Box          | Carved Pumpkin        | 5
+| Bunny Ears          | Carved Pumpkin        | 6

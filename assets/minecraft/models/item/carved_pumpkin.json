@@ -2,6 +2,8 @@
   "parent": "minecraft:block/carved_pumpkin",
   "overrides": [
     {"predicate": {"custom_model_data": 3}, "model": "item/fryingpan"},
-    {"predicate": {"custom_model_data": 4}, "model": "item/trophy"}
+    {"predicate": {"custom_model_data": 4}, "model": "item/trophy"},
+    {"predicate": {"custom_model_data": 5}, "model": "item/voting_box"},
+    {"predicate": {"custom_model_data": 6}, "model": "item/bunnyears"}
   ]
 }
