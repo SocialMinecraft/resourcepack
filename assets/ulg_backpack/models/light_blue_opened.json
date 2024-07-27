@@ -1,0 +1,6 @@
+{
+	"parent": "ulg_backpack:normal_opened",
+	"textures": {
+		"backpack": "ulg_backpack:light_blue"
+	}
+}
