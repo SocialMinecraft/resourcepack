@@ -1,0 +1,156 @@
+{
+    "sources": [
+        {
+            "type": "single",
+            "resource": "ulg_backpack:black"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:mouldy"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:vintage"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:blue"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:brown"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:cyan"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:old_friend2"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:old_friend3"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:friend2"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:friend1"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:gothlatus"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:old_friend1"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:void"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:friends"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:gray"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:green"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:light_blue"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:light_gray"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:lime"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:magenta"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:normal"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:orange"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:pink"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:purple"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:rainbow"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:red"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:ultroghast"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:youtube_logo_png"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:new_ultroghast"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:ulg_logo_18p"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:dragon_ulg_16"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:ulg"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:ulg_n_transparent"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:vanguard_base"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:vanguard_shield"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:vanguard"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:white"
+        },
+        {
+            "type": "single",
+            "resource": "ulg_backpack:yellow"
+        }
+    ]
+}
